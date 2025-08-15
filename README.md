@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Samseed Mohamed  
+# 👋 Hi, I'm Mohamed Samseed 
 
 💻 **Full-Stack Developer | Problem Solver | Lifelong Learner**  
 🌍 Based in UAE | 🚀 Open to Collaboration  
