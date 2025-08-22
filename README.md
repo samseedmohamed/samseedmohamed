@@ -11,7 +11,7 @@ I love combining **creative UI design** with **robust backend logic**, crafting 
 
 - 🌱 Currently exploring **cloud deployments (AWS, Azure)** and **real-time data processing**.
 - 🔭 Working on: **Super Admin Dashboard** (React + Django) & **Tour Package Management System**.
-- 💬 Ask me about: **React**, **Django REST Framework**, **Flutter**, **GraphQL**, **RabbitMQ**, and **API Integrations**.
+- 💬 Ask me about: **React**, **Django REST Framework**, **GraphQL**, **RabbitMQ**, and **API Integrations**.
 - 📫 How to reach me: [LinkedIn](www.linkedin.com/in/mohamedsamseed) | [Email](mailto:mohamedsamseed2@gmail.com)
 - ⚡ Fun fact: I once built a **real-time communication system between a GPIO device and the frontend using STOMP.js** that made my team cheer.
 
@@ -22,7 +22,7 @@ I love combining **creative UI design** with **robust backend logic**, crafting 
 `React` | `Tailwind CSS` | `JavaScript` | `TypeScript` | `Redux` | `React Flow`  
 
 **Backend:**  
-`Python` | `Django` | `Django REST Framework` | `PHP` | `Drupal 8/9` | `Odoo`  
+`Python` | `Django` | `Django REST Framework` | `PHP` | `Drupal 8/9`  
 
 **Databases:**  
 `MySQL` | `PostgreSQL`  
