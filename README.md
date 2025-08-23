@@ -49,4 +49,5 @@ I love combining **creative UI design** with **robust backend logic**, crafting 
 
 ### 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/mohamedsamseed)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-000?style=flat&logo=netlify)](https://samseed.netlify.app)
 [![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mohamedsamseed2@gmail.com)
