@@ -33,7 +33,7 @@ I love combining **creative UI design** with **robust backend logic**, crafting 
 ---
 
 ### 📌 Featured Projects
-- **[Super Admin Dashboard](https://github.com/samseedmohamed/Super_admin_dashboard)**  
+- **[Super Admin Dashboard](https://github.com/samseedmohamed/super-admin-dashboard)**  
   Role-based access control with JWT authentication, comment history, and API integration.
 
 - **[Tour Package Management System](https://github.com/samseedmohamed/Tour_Package)**  
